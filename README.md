@@ -14,7 +14,7 @@
 ## 📋 Categories
 
 - ✍️ Writing (ChatGPT, Claude, Gemini, QuillBot)
-- 🎨 Images (DALL-E, Midjourney, Stable Diffusion, Leonardo AI, GPT Image 2)
+- 🎨 Images (DALL-E, Midjourney, Stable Diffusion, Leonardo AI, [GPT Image 2](https://gptimage2.asia/))
 - 🎬 Video (Runway, Pika, HeyGen)
 - 💻 Code (GitHub Copilot, Cursor, Replit, Codeium)
 - 🎵 Audio (ElevenLabs, Murf AI, Suno)
