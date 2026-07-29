@@ -865,7 +865,7 @@ const aiTools = [
         fullDescription: "You.com provides AI search with customizable sources.",
         features: ["AI search", "Custom sources", "Productivity apps", "Code search", "Privacy-focused"],
         url: "https://you.com", videoUrl: "", badge: "Free"
-    }
+    },
     {
         id: 121, name: "GPTGeminiGrok.AI", category: "writing", icon: "💬",
         description: "Web workspace for chatting with GPT, Gemini, and Grok models.",
